@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @biherczlorant
-- 👀 I like Python, C++
+_hi_
+
+_hi again :)_
 
 <!---
 biherczlorant/biherczlorant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
